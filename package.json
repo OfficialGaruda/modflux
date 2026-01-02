@@ -2,7 +2,7 @@
   "name": "modflux",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://officialgaruda.github.io/modflux",
+  "homepage": "https://www.modfluxagency.com",
   "type": "module",
   "scripts": {
     "dev": "vite",
